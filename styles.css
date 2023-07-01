@@ -1,0 +1,24 @@
+* {
+    background-color: bisque;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.nav {
+    list-style: none;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: auto;
+}
